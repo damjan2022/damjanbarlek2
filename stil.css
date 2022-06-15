@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+p {color: yellow;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"
+}
+h1,h2 {color: crimson;
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"
+}
+a:link{
+	color: lime;
+}
+a:hover{
+	background-color: aqua
+}
+a:visited{
+	color: floralwhite
+}
+img {
+	height: 500px;
+}
+body{
+	background-image: url("20170430_194209.jpg");
+}
